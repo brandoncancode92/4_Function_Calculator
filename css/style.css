@@ -41,7 +41,7 @@ button {
     height: 50px;
     width: 50px;
     border-radius: 50%;
-    border: none;
+    border-color: black;
     background-color: slategrey;
     color: white;
     font-size: x-large;
